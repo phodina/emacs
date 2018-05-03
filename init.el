@@ -5,6 +5,7 @@
 (require 'init-editing)
 (require 'init-navigation)
 (require 'init-miscellaneous)
+(require 'init-company-mode)
 
 (provide 'init)
 
